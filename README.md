@@ -19,3 +19,5 @@ By the end of week 7 the game code was modified accordingly such that RL agent c
 From week 8 till this date I spent time working on RL, it was very challenging, and had to use AI to solve problems in the code. 
 
 At the end the RL agent is able to play game for several minutes without losing thanks to training of hours. 
+
+The demo video has been attached in repo 
